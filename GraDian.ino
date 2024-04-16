@@ -5,8 +5,8 @@
 #define WIFI_SSID "Komputer"
 #define WIFI_PASSWORD "sabrodin123"
 
-#define FIREBASE_HOST "gradian-1a459-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "LHhT8s9F8C6rHPDEEbKaaG6X7SfN1qc5oBqDMupR"
+#define FIREBASE_HOST "xxx"
+#define FIREBASE_AUTH "xxx"
 
 const int ldrPin = A0;
 #define DHTPIN D4  
